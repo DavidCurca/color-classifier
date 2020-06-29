@@ -221,6 +221,8 @@ def DrawScene():
         pred = np.append(pred, pred)
         pred = pred[0]
         pred = lookup[pred]
+        if(inputR >= 230 and inputG >= 230 and inputB >= 230):
+            pred = "white"
         text = font.render(pred, True, BLACK, BACK)
         textRect = text.get_rect()
         textRect.center = (500//2, 335)

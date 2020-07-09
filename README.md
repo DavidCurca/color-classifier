@@ -25,4 +25,5 @@ data to train on
 
 ## Installation
 `pip install pygame`
+
 `pip install torch===1.5.1 torchvision===0.6.1 -f https://download.pytorch.org/whl/torch_stable.html`

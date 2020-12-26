@@ -27,3 +27,12 @@ data to train on
 `pip install pygame`
 
 `pip install torch===1.5.1 torchvision===0.6.1 -f https://download.pytorch.org/whl/torch_stable.html`
+
+## Screen shots
+![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color1.png?raw=true)
+
+![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color2.PNG?raw=true)
+
+![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color3.PNG?raw=true)
+
+![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color4.PNG?raw=true)

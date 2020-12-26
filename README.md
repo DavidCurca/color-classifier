@@ -30,9 +30,7 @@ data to train on
 
 ## Screen shots
 ![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color1.png?raw=true)
-
 ![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color2.PNG?raw=true)
 
 ![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color3.PNG?raw=true)
-
 ![alt text](https://github.com/DavidCurca/color-classifier/blob/master/color4.PNG?raw=true)
